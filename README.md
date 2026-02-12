@@ -7,10 +7,6 @@
 J’aide les équipes à **gagner du temps**, **réduire les erreurs** et **rendre les processus traçables** grâce à la **data** (reporting/dashboards) et à l’**automatisation avec l'intelligence artificielle** (workflows n8n / Power Automate (M365) / Make / Zapier).  
 Mon approche est orientée **utilité métier** : transformer une tâche manuelle lente en un flux clair, standardisé et mesurable.
 
-📍 Dakar (Ouest Foire) · 📧 diopmouhamadoubachir327@gmail.com · 📞 +221 78 386 99 44  
-🔗 LinkedIn : [bachir2810](https://www.linkedin.com/in/bachir2810)
-🔗 GitHub : https://github.com/Bass327
-
 ---
 
 ## Ce que je fais (et à quoi ça sert)
@@ -134,7 +130,8 @@ Français (courant) · Anglais (intermédiaire) · Wolof (parlé)
 ---
 
 ## Contact
-📧 diopmouhamadoubachir327@gmail.com  
-📞 +221 78 386 99 44  
-🔗 LinkedIn : https://www.linkedin.com/in/bachir2810  
+📍 Dakar (Ouest Foire)  
+📧 Mail : diopmouhamadoubachir327@gmail.com  
+📞 TEL : +221 78 386 99 44  
+🔗 LinkedIn : [bachir2810](https://www.linkedin.com/in/bachir2810)
 🔗 GitHub : https://github.com/Bass327
