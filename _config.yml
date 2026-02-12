@@ -10,4 +10,5 @@ kramdown:
 
 # Optional: if you later add a logo or favicon
 logo: /img/Basiiru%20Joop.jpg
-
+github:
+  is_project_page: false
