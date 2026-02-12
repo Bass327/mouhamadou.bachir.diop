@@ -33,12 +33,12 @@ Mon approche est orientée **utilité métier** : transformer une tâche manuell
 ### L’IA pour tous — DeepLearning.AI
 Vérification : https://www.coursera.org/account/accomplishments/verify/BJW7ENWVWTE2
 
-![Certificat - L’IA pour tous](img/AI%20pour%20tous.png)
+![Certificat - L’IA pour tous](img/AI%20pour%20Tous.png)
 
 ### Python for Data Science, AI & Development — IBM
 Vérification : https://www.coursera.org/account/accomplishments/verify/09QS4NN76X7A
 
-![Certificat - Python for Data Science](img/Certificat%20Science%20des%20donneés.png)
+![Certificat - Python for Data Science](img/Certificat%20Science%20des%20donnees.png)
 
 ---
 
