@@ -4,7 +4,7 @@
 
 **BI / Data Analyst (Junior) · Automatisat AI (n8n) · Microsoft 365 · SQL · Python**
 
-J’aide les équipes à **gagner du temps**, **réduire les erreurs** et **rendre les processus traçables** grâce à la **data** (reporting/dashboards) et à l’**automatisation avec l'intelligence artificielle** (workflows n8n / Power Automate (M365) / Make / Zapier.  
+J’aide les équipes à **gagner du temps**, **réduire les erreurs** et **rendre les processus traçables** grâce à la **data** (reporting/dashboards) et à l’**automatisation avec l'intelligence artificielle** (workflows n8n / Power Automate (M365) / Make / Zapier).  
 Mon approche est orientée **utilité métier** : transformer une tâche manuelle lente en un flux clair, standardisé et mesurable.
 
 📍 Dakar (Ouest Foire) · 📧 diopmouhamadoubachir327@gmail.com · 📞 +221 78 386 99 44  
@@ -104,7 +104,7 @@ Mon approche est orientée **utilité métier** : transformer une tâche manuell
 ---
 
 ## Formation
-- **Master 1 (2025-2026)** — Statistique & Informatique Décisionnelle, Université Alioune Diop
+- **Master 1 (En Cours)** — Statistique & Informatique Décisionnelle, Université Alioune Diop
 - **Licence 3 (2024-2025)** — Statistique & Informatique Décisionnelle, Université Alioune Diop  
 - **Licence 2 (2023-2024)** — Statistique & Informatique Décisionnelle, Université Alioune Diop  
 - **Licence 1 (2022-2023)** — Mathematiques Physique Chimie et Informatique, Université Alioune Diop  
