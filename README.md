@@ -30,8 +30,6 @@ Mon approche est orientée **utilité métier** : transformer une tâche manuell
 
 ## Automatisations (n8n) — preuves visuelles
 
-> Captures réelles de workflows : du terrain jusqu’au document final, avec notifications et stockage.
-
 ### ⚡ Dimensionnement Solaire — workflow automatisé
 **Utilité :** accélérer la qualification et standardiser les estimations.
 - Entrées structurées (besoins, contexte, options)
