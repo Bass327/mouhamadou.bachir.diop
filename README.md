@@ -8,7 +8,8 @@ J’aide les équipes à **gagner du temps**, **réduire les erreurs** et **rend
 Mon approche est orientée **utilité métier** : transformer une tâche manuelle lente en un flux clair, standardisé et mesurable.
 
 📍 Dakar (Ouest Foire) · 📧 diopmouhamadoubachir327@gmail.com · 📞 +221 78 386 99 44  
-🔗 LinkedIn : https://www.linkedin.com/in/bachir2810 · 🔗 GitHub : https://github.com/Bass327
+🔗 LinkedIn : [bachir2810](https://www.linkedin.com/in/bachir2810)
+🔗 GitHub : https://github.com/Bass327
 
 ---
 
