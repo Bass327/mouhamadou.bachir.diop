@@ -1,10 +1,10 @@
-# Mouhamadou Bachir Diop — Portfolio (BI / Data & Automatisation)
+# Mouhamadou Bachir Diop — Portfolio (BI / Data & Automatist AI)
 
 ![Photo professionnelle](img/Basiiru%20Joop.jpg)
 
-**BI / Data Analyst (Junior) · Automatisation (n8n) · Microsoft 365 · SQL · Python**
+**BI / Data Analyst (Junior) · Automatisat AI (n8n) · Microsoft 365 · SQL · Python**
 
-J’aide les équipes à **gagner du temps**, **réduire les erreurs** et **rendre les processus traçables** grâce à la **data** (reporting/dashboards) et à l’**automatisation** (workflows n8n / Power Automate (M365) / Make / Zapier.  
+J’aide les équipes à **gagner du temps**, **réduire les erreurs** et **rendre les processus traçables** grâce à la **data** (reporting/dashboards) et à l’**automatisation avec l'intelligence artificielle** (workflows n8n / Power Automate (M365) / Make / Zapier.  
 Mon approche est orientée **utilité métier** : transformer une tâche manuelle lente en un flux clair, standardisé et mesurable.
 
 📍 Dakar (Ouest Foire) · 📧 diopmouhamadoubachir327@gmail.com · 📞 +221 78 386 99 44  
