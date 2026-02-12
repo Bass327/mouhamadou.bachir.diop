@@ -28,6 +28,16 @@ Mon approche est orientée **utilité métier** : transformer une tâche manuell
 
 ---
 
+## Certifications (Coursera)
+
+- **L’IA pour tous** — DeepLearning.AI  
+  Vérification : https://www.coursera.org/account/accomplishments/verify/BJW7ENWVWTE2
+
+- **Python for Data Science, AI & Development** — IBM  
+  Vérification : https://www.coursera.org/account/accomplishments/verify/09QS4NN76X7A
+
+---
+
 ## Automatisations (n8n) — preuves visuelles
 
 ### ⚡ Dimensionnement Solaire — workflow automatisé
@@ -104,7 +114,7 @@ Mon approche est orientée **utilité métier** : transformer une tâche manuell
 ---
 
 ## Formation
-- **Master 1 (En Cours)** — Statistique & Informatique Décisionnelle, Université Alioune Diop
+- **Master** — Statistique & Informatique Décisionnelle, Université Alioune Diop
 - **Licence 3 (2024-2025)** — Statistique & Informatique Décisionnelle, Université Alioune Diop  
 - **Licence 2 (2023-2024)** — Statistique & Informatique Décisionnelle, Université Alioune Diop  
 - **Licence 1 (2022-2023)** — Mathematiques Physique Chimie et Informatique, Université Alioune Diop  
